@@ -1,5 +1,5 @@
 {
-  "name": "medical-summary-app",
+  "name": "medicalsummarymvp",
   "version": "1.0.0",
   "description": "A React application for generating medical summaries from clinical text.",
   "main": "src/index.js",
@@ -25,6 +25,6 @@
   "homepage": "http://yourhomepage.com",
   "repository": {
     "type": "git",
-    "url": "http://github.com/yourusername/medical-summary-app.git"
+    "url": "http://github.com/JanetMuthiora/medicalsummarymvp.git"
   }
 }
